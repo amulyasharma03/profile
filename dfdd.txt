@@ -1,0 +1,38 @@
+Question 1..
+Answer 1:- 
+UI :- Ul Design stands for User Interface Design.
+UI design is a process that mainly focused on how the specific product’s surfaces look and function.
+UI design transmits the brand’s strength and visual assets to a product’s interface.
+UX :-
+UX Design stands for User Experience Design.
+UX design is focused on everything that affects the user’s journey to solve a problem.
+UX design is developing and improving quality interaction between a user and all elements of a company.
+
+Question 2.?
+Answer 2..
+A front-end developer builds the front-end portion of websites and web applications—that is, the part that users actually see and interact with. A front-end developer creates websites and applications using web languages such as HTML, CSS, and JavaScript that allow users to access and interact with the site or app.
+Front End Developer Responsibilities:
+Determining the structure and design of web pages.
+Ensuring user experience determines design choices.
+Developing features to enhance the user experience.
+Striking a balance between functional and aesthetic design.
+Ensuring web design is optimized for smartphones.
+
+Question 3..?
+Answer…3
+Back-end Development refers to the server-side development. It focuses on databases, scripting, website architecture. It contains behind-the-scene activities that occur when performing any action on a website.
+Back-end Developer Responsibilities:
+Compile and analyze data, processes, and codes to troubleshoot problems and identify areas for improvement.
+Collaborating with the front-end developers and other team members to establish objectives and design more functional, cohesive codes to enhance the user experience.
+Developing ideas for new programs, products, or features by monitoring industry developments and trends.
+
+Question.4?
+Answer…4 
+
+https://www.linkedin.com/in/dheeraj-yaduvanshi-194839255
+
+
+
+
+
+
